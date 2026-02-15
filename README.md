@@ -35,13 +35,20 @@
   </td>
 
   <td align="center">
-    <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=000000" height="28"/>
+    <a href="https://www.mongodb.com/" target="_blank">
+      <img src="https://img.shields.io/badge/MongoDB-Database%20(Atlas)-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="28"/>
+    </a>
     <br/>
-    <img src="https://img.shields.io/badge/Express.js-Backend-000000?style=for-the-badge&logo=express&logoColor=white" height="28"/>
+    <a href="https://expressjs.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Express.js-Backend-000000?style=for-the-badge&logo=express&logoColor=white" height="28"/>
+    </a>
+    <a href="https://react.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=000000" height="28"/>
+    </a>
     <br/>
-    <img src="https://img.shields.io/badge/Node.js-Runtime-339933?style=for-the-badge&logo=node.js&logoColor=white" height="28"/>
-    <br/>
-    <img src="https://img.shields.io/badge/MongoDB-Database%20(Atlas)-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="28"/>
+    <a href="https://nodejs.org/en" target="_blank">
+      <img src="https://img.shields.io/badge/Node.js-Runtime-339933?style=for-the-badge&logo=node.js&logoColor=white" height="28"/>
+    </a>
   </td>
 </tr>
 
